@@ -1,0 +1,30 @@
+The Angry Birds:Animation:2016:English:73:349:6.9:Finland:97 Minutes:690000
+Tangled:Animation:2010:English:260:591:7.9:USA:100 Minutes:790000
+Ice Age Collision Course:Animation:2016:English:105:407:5.7:USA:94 Minutes:57000
+Kingsglaive Final Fantasy XV:Animation:2016:Japaness:1:2:7.1:Japan:115 Minutes:710000
+How to Train Your Dragon 2:Animation:2014:English:145:621:8.1:USA:102 Minutes:810000
+Marley:Documentary:2012:English:100:1400:8.0:Jamaica:145 Minutes:800000
+The Decline of Western Civilization:Documentary:1981:English:1:2:7.9:USA:100 Minutes:800000
+Lawrence of Arabia:History:1962:English:15:70:8.4:UK:222 Minutes:840000
+The Last Samurai:History:2003:Japanese:140:456:7.9:Japan:154 Minutes:790000
+Black Hawk Down:History:2002:English:92:173:7.7:UK:144 Minutes:770000
+Mad Max Fury Road:War:2015:English:150:378:8.7:Australiya:120 Minutes:890000
+Kingsglaive:War:2007:Japaness:1:2:7.1:Japan:115 Minutes:710000
+X Man:Sci:2012:English:100:1400:8.0:USA:145 Minutes:800000
+Dangal:Biography:2016:Hindi:70:670:7.9:India:160 Minutes:790000
+Wajah Tum Ho:Thriller:2016:Hindi:7:15:5.9:India:160 Minutes:7000
+Befikre:Romantic:2016:Hindi:70:100:7.0:India:160 Minutes:70000
+Kahaani 2 Durga Rani Singh:Thriller:2016:Hindi:17:67:7.1:India:121 Minutes:70000
+Dear Zindagi:Romantic:2016:Hindi:22:170:7.3:India:150 Minutes:71000
+Moner Majhe Tumi :Romantic:2003:Bangla:22:170:8.3:BD:150 Minutes:71000
+Shikari:Thriller:2016:Bangla:40:170:7.3:BD:160 Minutes:73000
+Niyoti:Romantic:2016:Bangla:35:27:7.2:BD:150 Minutes:72000
+Ostitti:Romantic:2016:Bangla:15:17:7.5:BD:150 Minutes:75000
+Musafir:Thriller:2016:Bangla:2:17:6.7:BD:150 Minutes:61000
+Mental:Thriller:2016:Bangla:2:17:6.7:BD:150 Minutes:61000
+Captain America:Adventure:2011:English:140:370:6.7:USA:124 Minutes:67000
+Batman v Superman Dawn of Justice:Adventure:2016:English:250:873:7.7:USA:151 Minutes:67000
+The Conjuring:horror:2013:English:20:370:7.7:USA:114 Minutes:77000
+Girl House:horror:2014:English:140:370:6.7:Canada:124 Minutes:67000
+The Conjuring 2:horror:2016:English:40:370:7.7:USA:124 Minutes:77000
+Deadpool:Sci:2016:English:58:770:8.1:USA:104 Minutes:87000
